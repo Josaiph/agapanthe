@@ -1,0 +1,18 @@
+#option-tree-settings-api{
+	margin-top: 30px;
+}
+#option-tree-sub-header, #option-tree-options-layouts-form{
+	display: none;
+}
+#option-tree-header li{
+	display: none;
+}
+#option-tree-header {
+	border-top: 1px solid #c3c3c3;
+}
+#option-tree-settings-api .ui-tabs { border: 1px solid #c3c3c3;}
+
+.wrap.settings-wrap .ui-tabs-nav { margin: 0; width: 147px; padding: 0 0 1em;}
+.wrap.settings-wrap .ui-tabs-nav li   { border: 0; border-bottom: 1px solid #c3c3c3; }
+.wrap.settings-wrap .ui-tabs-nav li.ui-state-active { border-bottom: 1px solid #c3c3c3; }
+.wrap.settings-wrap .ui-tabs-nav li  a { color: #000; font-weight: bold; padding: 10px 5px 10px 12px;}
